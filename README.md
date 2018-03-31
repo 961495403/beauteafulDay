@@ -1,2 +1,2 @@
 # beauteafulDay
-this is a student'test
+This is a student's practice, please point out more
